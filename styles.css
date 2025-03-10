@@ -71,7 +71,7 @@
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 100px;       
-    color: #0e0202;
+    color: #fdfcfc;
     
 }
 
@@ -114,8 +114,8 @@
     height: auto;
     text-align: center;
     font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #2488c2;
+    font-family:'Courier New', Courier, monospace;
+    color: #f6f6f7;
 }
 
 .container4 {
